@@ -1,4 +1,4 @@
-# Paul Howe
+## Paul Howe
 
 437 Euclid Ave, Apt 7  
 Oakland, CA 94610  
@@ -6,6 +6,7 @@ pahowe@gmail.com / http://plhw.org/
 (415) 624-7035  
 
 ## Experience
+- - - 
 
 ### SocialCode — [socialcode.com](http://www.socialcode.com/)
 
@@ -106,6 +107,7 @@ Wisconsin. Also Assisted in software maintenance and Unix system
 administration.
 
 ## Education
+- - - 
 
 ### University of San Francisco 
 

@@ -10,25 +10,30 @@ pahowe@gmail.com / http://plhw.org/
 
 ### SocialCode — [socialcode.com](http://www.socialcode.com/)
 
+Tech lead on
+[MessageOptics](http://www.socialcode.com/social-content-analytics), a social
+media analytics platform
+
 San Francisco, CA: Senior software engineer (July 2013 - Present)
 
-  * Django
-  * Python
   * AWS / EC2 / RDS
-  * MySQL
   * Celery
+  * Django
+  * MySQL
+  * Python
 
 ### Forio Online Simulations — [forio.com](http://forio.com/)
 
 San Francisco, CA: Software engineer (November 2011 - June 2013)
 
-Developed an online educational simulation used to teach concepts in venture
-capital and private equity portfolio management.
+Developed an online educational simulation in collaboration with Harvard
+Business School designed to teach concepts in venture capital and private
+equity portfolio management.
 
-  * Ruby
-  * JRuby
+  * AWS / EC2
   * Java
   * MongoDB
+  * Ruby (JRuby)
   * ZFS
 
 ### SimplyHired — [simplyhired.com](http://www.simplyhired.com/)
@@ -39,8 +44,8 @@ Developed a high performance email delivery system in Python to support the
 promply delivery of email job alerts. The alerts delivery service was
 responsible for processing ~750k emails/hr.
 
-  * Python
   * Multi-core processing
+  * Python
 
 ### SplinkMedia — [splinkmedia.com](http://www.splinkmedia.com/)
 
@@ -54,17 +59,17 @@ Lead developer for the social media startup, SplinkMedia.com.
   * Linux
   * Memcache
   * Nginx
-  * Python
   * Postgres
+  * Python
 
 ### Yahoo! — [yahoo.com](http://yahoo.com)
 
 Sunnyvale, CA: Software engineer (September 2007 - April 2009)
 
 As a member of the personalization gcing team I participated in platform
-development of a high performance data access service used for storing profile
-data for several highly trafficked sites at Yahoo. Contributed to several
-internal and external web applications. 
+development on a distributed database responsible for storing profile data for
+several highly trafficked sites at Yahoo. Contributed to several internal and
+external web applications. 
 
   * PHP
   * MySQL
@@ -109,9 +114,9 @@ administration.
 ## Education
 - - - 
 
-### University of San Francisco 
+### University of San Francisco - [usfca.edu](http://www.usfca.edu/)
 
-San Francisco, CA: Masters — Computer Science (August 2008 – May 2012)
+San Francisco, CA: Masters in Computer Science (August 2008 – May 2012)
 
 **Coursework and Research**
 
@@ -133,9 +138,9 @@ the testing and analysis of supercomputer performance modeling.
   * MPIP
   * Network Queuing Theory
 
-### University of Wisconsin-Madison 
+### University of Wisconsin-Madison — [wisc.edu](http://wisc.edu)
 
-Madison, WI: Bachelors of Science — Computer Science (May 2000 - May 2004)
+Madison, WI: Bachelors of Computer Science (May 2000 - May 2004)
 
 **Coursework**
 
@@ -150,9 +155,9 @@ Madison, WI: Bachelors of Science — Computer Science (May 2000 - May 2004)
 
 Rochester, MI; Royal Oak, MI; Detroit, MI (1998 - 2000)
 
-  * Oakland University
-  * Oakland Community College
-  * Wayne State University 1998 – 2000
+  * Oakland University — [oakland.edu](http://www.oakland.edu/)
+  * Oakland Community College — [oaklandcc.edu](https://www.oaklandcc.edu/)
+  * Wayne State University 1998 — 2000 [wayne.edu](http://wayne.edu/)
 
 **Coursework**
 
@@ -182,11 +187,10 @@ Advising Professor: Jeff Buckwalter
 ### Technologies
 
   * Django
-  * Node
-  * Rails
-  * Ruby
-  * Python
   * Java
   * Javascript
-  * SQL
-  * MySql / Postgres
+  * Node
+  * Python
+  * Rails
+  * Ruby
+  * SQL (MySql, Postgres)

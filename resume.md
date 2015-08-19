@@ -1,20 +1,19 @@
 ## Paul Howe
 
-437 Euclid Ave, Apt 7  
+http://plhw.org/  
 Oakland, CA 94610  
-pahowe@gmail.com / http://plhw.org/  
-(415) 624-7035  
+pahowe@gmail.com
 
 ## Experience
 - - - 
 
 ### SocialCode — [socialcode.com](http://www.socialcode.com/)
 
-Tech lead on
-[MessageOptics](http://www.socialcode.com/social-content-analytics), a social
-media analytics platform
+Engineering lead of the analytics and insights team whose goal is to provide
+novel, industrial strength analytical models and services for application
+developers. 
 
-San Francisco, CA: Senior software engineer (July 2013 - Present)
+San Francisco, CA: Engineering Manager (July 2013 - Present)
 
   * AWS / EC2 / RDS
   * Celery

@@ -1,6 +1,6 @@
 ## Paul Howe
 
-http://plhw.org/  
+[plhw.org/](http://plhw.org/)  
 Oakland, CA 94610  
 pahowe@gmail.com
 
@@ -15,7 +15,7 @@ developers.
 
 San Francisco, CA: Engineering Manager (July 2013 - Present)
 
-  * AWS / EC2 / RDS
+  * AWS: EC2 / RDS / Elasticache / S3
   * Celery
   * Django
   * MySQL
@@ -29,7 +29,7 @@ Developed an online educational simulation in collaboration with Harvard
 Business School designed to teach concepts in venture capital and private
 equity portfolio management.
 
-  * AWS / EC2
+  * AWS: EC2
   * Java
   * MongoDB
   * Ruby (JRuby)

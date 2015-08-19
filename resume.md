@@ -166,7 +166,7 @@ Rochester, MI; Royal Oak, MI; Detroit, MI (1998 - 2000)
 ### Publications & documentation
 
   * [MPIP supercomputer performance modeling research project documentation](http://plhw.org/docs/mpip-documentation.pdf)
-  * [Near Real-time Internet Delivery of Processed MODIS Imagery in Wisconsin ](http://cfllibrary.uwcfl.org/node/326)
+  * Near Real-time Internet Delivery of Processed MODIS Imagery in Wisconsin [[Paper](http://plhw.org/docs/batzli_asprs_howe_04.pdf)] [[Citation](https://web.archive.org/web/20150819192226/http://cfllibrary.uwcfl.org/node/326)]
 
 ### Achievements
 

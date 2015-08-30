@@ -46,7 +46,7 @@ responsible for processing ~750k emails/hr.
   * Multi-core processing
   * Python
 
-### SplinkMedia — [splinkmedia.com](http://www.splinkmedia.com/)
+### SplinkMedia — splinkmedia.com
 
 San Francisco, CA: Lead developer (April 2009 - April 2010)
 
@@ -166,7 +166,7 @@ Rochester, MI; Royal Oak, MI; Detroit, MI (1998 - 2000)
 ### Publications & documentation
 
   * [MPIP supercomputer performance modeling research project documentation](http://plhw.org/docs/mpip-documentation.pdf)
-  * Near Real-time Internet Delivery of Processed MODIS Imagery in Wisconsin [[Paper](http://plhw.org/docs/batzli_asprs_howe_04.pdf)] [[Citation](https://web.archive.org/web/20150819192226/http://cfllibrary.uwcfl.org/node/326)]
+  * Near Real-time Internet Delivery of Processed MODIS Imagery in Wisconsin [[Paper](http://plhw.org/docs/batzli_asprs_howe_04.pdf)] [[Citation](http://cfllibrary.uwcfl.org/node/326)]
 
 ### Achievements
 

@@ -9,13 +9,13 @@ pahowe@gmail.com
 
 ### SocialCode — [socialcode.com](http://www.socialcode.com/)
 
-Engineering lead of the analytics and insights team whose goal is to provide
-novel, industrial strength analytical models and services for application
-developers. 
+Analytics team engineering manager. The analytics team works to develop novel,
+industrial strength analytical models and services to application development
+teams based direction and input from product, research and customers.
 
 San Francisco, CA: Engineering Manager (July 2013 - Present)
 
-  * AWS: EC2 / RDS / Elasticache / S3
+  * AWS: EC2, RDS, ElastiCache, Redshift
   * Celery
   * Django
   * MySQL

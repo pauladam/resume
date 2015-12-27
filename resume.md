@@ -1,7 +1,7 @@
 ## Paul Howe
 
 [plhw.org/](http://plhw.org/)  
-Oakland, CA 94608
+Oakland, CA 94608  
 pahowe@gmail.com
 
 ## Experience
@@ -15,7 +15,7 @@ teams based direction and input from product, research and customers.
 
 San Francisco, CA: Engineering Manager (July 2013 - Present)
 
-  * AWS: EC2, RDS, ElastiCache, Redshift
+  * AWS: EC2, Elasticsearch, Elastic MapReduce, Redshift, RDS
   * Celery
   * Django
   * MySQL
@@ -43,7 +43,7 @@ Developed a high performance email delivery system in Python to support the
 promply delivery of email job alerts. The alerts delivery service was
 responsible for processing ~750k emails/hr.
 
-  * Multi-core processing
+  * Multiprocessing
   * Python
 
 ### SplinkMedia — splinkmedia.com

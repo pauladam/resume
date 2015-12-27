@@ -1,7 +1,7 @@
 ## Paul Howe
 
 [plhw.org/](http://plhw.org/)  
-Oakland, CA 94610  
+Oakland, CA 94608
 pahowe@gmail.com
 
 ## Experience

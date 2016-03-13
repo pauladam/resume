@@ -32,7 +32,7 @@ equity portfolio management.
   * AWS: EC2
   * Java
   * MongoDB
-  * Ruby (JRuby)
+  * JRuby
   * ZFS
 
 ### SimplyHired — [simplyhired.com](http://www.simplyhired.com/)

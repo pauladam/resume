@@ -119,13 +119,15 @@ San Francisco, CA: Masters in Computer Science (August 2008 – May 2012)
 
 **Coursework and Research**
 
-  * Advanced Microcomputer Programming
-  * Distributed Software Development
-  * Artificial Intelligence
-  * Web Systems & Algorithms
-  * Security & Privacy
+  * [Advanced Microcomputer Programming](http://cs.usfca.edu/~cruse/cs630f08/)
+  * [Artificial Intelligence](http://www.cs.usfca.edu/~brooks/F06classes/cs662/)
+  * [Autometa Theory](http://www.cs.usfca.edu/~galles/cs411/)
+  * [Bioinformatics](http://www.cs.usfca.edu/~pfrancislyon/courses/640fall2015/syllabus.html)
+  * [Distributed Software Development](http://cs.usfca.edu/courses/cs682.html)
   * Network Queueing Theory
-
+  * [Operating Systems](http://cs326.cs.usfca.edu/syllabus)
+  * [Security & Privacy](https://www.usfca.edu/catalog/course/computer-security-and-privacy-0)
+  * [Web Systems & Algorithms](http://cs680.cs.usfca.edu/)
 
 ### Lawrence Livermore National Laboratory — [llnl.gov](https://www.llnl.gov/)
 
@@ -165,12 +167,18 @@ Rochester, MI; Royal Oak, MI; Detroit, MI (1998 - 2000)
 
 ### Publications & documentation
 
-  * [MPIP supercomputer performance modeling research project documentation](http://plhw.org/docs/mpip-documentation.pdf)
-  * Near Real-time Internet Delivery of Processed MODIS Imagery in Wisconsin [[Paper](http://plhw.org/docs/batzli_asprs_howe_04.pdf)] [[Citation](http://cfllibrary.uwcfl.org/node/326)]
+  * [MPIP supercomputer performance modeling research project
+    documentation](http://plhw.org/docs/mpip-documentation.pdf)
+  * Near Real-time Internet Delivery of Processed MODIS Imagery in Wisconsin
+    [[Paper](http://plhw.org/docs/batzli_asprs_howe_04.pdf)]
+    [[Citation](http://cfllibrary.uwcfl.org/node/326)]
 
 ### Achievements
 
-Winner of “Hacks / Hackers” 48 hour iPad application development competition sponsored by KQED for entry “Who's reppin me?”, May 2010 [Link](http://www.siliconvalleywatcher.com/mt/archives/2010/05/journalists_and.php)
+Winner of [“Hacks /
+Hackers”](http://www.siliconvalleywatcher.com/mt/archives/2010/05/journalists_and.php)
+48 hour iPad application development competition sponsored by KQED for entry
+“Who's reppin me?”, May 2010 
 
 ### Honors & scholarships
 
@@ -180,7 +188,8 @@ Winner of “Hacks / Hackers” 48 hour iPad application development competition
 ### Presentations
 
 **Supercomputer Performance Modeling**  
-Poster Presentation at the 12th Celebration of Student Research and Artistic and Scholarly Creative Activity (April 12 2011)  
+Poster Presentation at the 12th Celebration of Student Research and Artistic
+and Scholarly Creative Activity (April 12 2011)  
 Advising Professor: Jeff Buckwalter  
 
 ### Technologies

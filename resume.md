@@ -12,12 +12,17 @@ pahowe@gmail.com
 San Francisco, CA: Sr. Engineering Manager (July 2013 - Present)
 
 Analytics team engineering manager. The analytics team works to develop novel,
-industrial strength analytical models and services to application development
-teams based direction and input from product, research and customers.
+industrial strength analytical models and services. The analytics team
+interfaces closely with product, reearch and platform development teams. 
 
   * AWS: EC2, Elasticsearch, Elastic MapReduce, Redshift, RDS
   * Celery
+  * Chef
   * Django
+  * Docker
+  * Grafana
+  * Jenkins
+  * Kibana
   * MySQL
   * Python
 

@@ -9,7 +9,7 @@ pahowe@gmail.com
 
 ### SocialCode — [socialcode.com](http://www.socialcode.com/)
 
-San Francisco, CA: Sr. Engineering Manager (July 2013 - Present)
+San Francisco, CA: Sr. Engineering Manager (July 2013 - June 2016)
 
 Analytics team engineering manager. The analytics team works to develop novel,
 industrial strength analytical models and services to application development

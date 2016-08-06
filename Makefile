@@ -1,4 +1,5 @@
-# export PATH=$PATH:/Library/TeX/Distributions/.DefaultTeX/Contents/Programs/texbin
+# TODO Add support for embedded images
+export PATH := /Library/TeX/Distributions/.DefaultTeX/Contents/Programs/texbin:$(PATH)
 
 all:
 	pandoc -c swiss.css -f markdown -t html resume.md -o resume.html

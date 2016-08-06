@@ -7,9 +7,20 @@ pahowe@gmail.com
 ## Experience
 - - - 
 
+### Pandora — [pandora.com](http://www.pandora.com/)
+
+Oakland, CA: Engineering Manager - Analytics (July 2016 - Present)
+
+  * Hadoop
+  * Hive
+  * Java
+  * Postgres
+  * Scala
+  * Spark
+
 ### SocialCode — [socialcode.com](http://www.socialcode.com/)
 
-San Francisco, CA: Sr. Engineering Manager (July 2013 - Present)
+San Francisco, CA: Sr. Engineering Manager (July 2013 - July 2016)
 
 Analytics team engineering manager. The analytics team works to develop novel,
 industrial strength analytical models and services. The analytics team
@@ -131,7 +142,7 @@ San Francisco, CA: Masters in Computer Science (August 2008 – May 2012)
   * [Distributed Software Development](http://cs.usfca.edu/courses/cs682.html)
   * Network Queueing Theory
   * [Operating Systems](http://cs326.cs.usfca.edu/syllabus)
-  * [Security & Privacy](https://www.usfca.edu/catalog/course/computer-security-and-privacy-0)
+  * [Security & Privacy](https://www.usfca.edu/catalog/course/computer-security-and-privacy)
   * [Web Systems & Algorithms](http://cs680.cs.usfca.edu/)
 
 ### Lawrence Livermore National Laboratory — [llnl.gov](https://www.llnl.gov/)

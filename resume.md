@@ -1,11 +1,11 @@
 ## Paul Howe
 
-[plhw.org/](http://plhw.org/)  
-Oakland, CA  
+[plhw.org/](http://plhw.org/)
+Oakland, CA
 pahowe@gmail.com
 
 ## Experience
-- - - 
+- - -
 
 ### Pandora — [pandora.com](http://www.pandora.com/)
 
@@ -24,7 +24,7 @@ San Francisco, CA: Sr. Engineering Manager (July 2013 - July 2016)
 
 Analytics team engineering manager. The analytics team works to develop novel,
 industrial strength analytical models and services. The analytics team
-interfaces closely with product, reearch and platform development teams. 
+interfaces closely with product, reearch and platform development teams.
 
   * AWS: EC2, Elasticsearch, Elastic MapReduce, Redshift, RDS
   * Celery
@@ -66,7 +66,7 @@ responsible for processing ~750k emails/hr.
 
 San Francisco, CA: Lead developer (April 2009 - April 2010)
 
-Lead developer for the social media startup, SplinkMedia.com. 
+Lead developer for the social media startup, SplinkMedia.com.
 
   * Django
   * Git
@@ -84,7 +84,7 @@ Sunnyvale, CA: Software engineer (September 2007 - April 2009)
 As a member of the personalization gcing team I participated in platform
 development on a distributed database responsible for storing profile data for
 several highly trafficked sites at Yahoo. Contributed to several internal and
-external web applications. 
+external web applications.
 
   * PHP
   * MySQL
@@ -96,22 +96,22 @@ external web applications.
 San Francisco, CA: Software engineer (March 2006 - September 2007)
 
 Acquired by Acxiom Digital (April 2007)
-	
+
 Developed client campaigns on the Kefta web services platform. Developed
-marketing campaigns for several high traffic fortune 500 websites. 
+marketing campaigns for several high traffic fortune 500 websites.
 
   * Python
   * Oracle
   * Solaris
   * Javascript
- 
+
 ### Berlitz — [berlitz.com](http://www.berlitz.com/)
 
 Brno, Czech Republic: English teacher (October 204 – October 2005)
 
 Brno Language School, Czech Republic
 
-### CT Diagnostic Imaging Center 
+### CT Diagnostic Imaging Center
 
 Madison, WI: Web developer (March 2004 - May 2004)
 
@@ -127,7 +127,36 @@ Wisconsin. Also Assisted in software maintenance and Unix system
 administration.
 
 ## Education
-- - - 
+- - -
+
+### Open online courses
+
+#### [Introduction to Apache Spark](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x)
+
+An online course covering the fundamentals of Apache Spark with exercises in
+PySpark developed in Databricks hosted Spark notebooks.
+
+Course details: Spark is rapidly becoming the compute engine of choice for big
+data. Spark programs are more concise and often run 10-100 times faster than
+Hadoop MapReduce jobs. As companies realize this, Spark developers are becoming
+increasingly valued.
+
+This statistics and data analysis course will teach you the basics of working
+with Spark and will provide you with the necessary foundation for diving deeper
+into Spark. You’ll learn about Spark’s architecture and programming model,
+including commonly used APIs. After completing this course, you’ll be able to
+write and debug basic Spark applications. This course will also explain how to
+use Spark’s web user interface (UI), how to recognize common coding errors, and
+how to proactively prevent errors. The focus of this course will be Spark Core
+and Spark SQL.
+
+This course covers advanced undergraduate-level material. It requires a
+programming background and experience with Python (or the ability to learn it
+quickly). All exercises will use PySpark (the Python API for Spark), but
+previous experience with Spark or distributed computing is NOT required.
+Students should take this Python mini-quiz before the course and take this
+Python mini-course if they need to learn Python or refresh their Python
+knowledge.
 
 ### University of San Francisco - [usfca.edu](http://www.usfca.edu/)
 
@@ -194,19 +223,19 @@ Rochester, MI; Royal Oak, MI; Detroit, MI (1998 - 2000)
 Winner of [“Hacks /
 Hackers”](http://www.siliconvalleywatcher.com/mt/archives/2010/05/journalists_and.php)
 48 hour iPad application development competition sponsored by KQED for entry
-“Who's reppin me?”, May 2010 
+“Who's reppin me?”, May 2010
 
 ### Honors & scholarships
 
-  * 2012 USF Computer Science department fellowship award 
-  * Scholarship to Grace Hopper Celebration of Women in Computing Conference 2010 
+  * 2012 USF Computer Science department fellowship award
+  * Scholarship to Grace Hopper Celebration of Women in Computing Conference 2010
 
 ### Presentations
 
-**Supercomputer Performance Modeling**  
+**Supercomputer Performance Modeling**
 Poster Presentation at the 12th Celebration of Student Research and Artistic
-and Scholarly Creative Activity (April 12 2011)  
-Advising Professor: Jeff Buckwalter  
+and Scholarly Creative Activity (April 12 2011)
+Advising Professor: Jeff Buckwalter
 
 ### Technologies
 

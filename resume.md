@@ -11,9 +11,12 @@ pahowe@gmail.com
 
 Oakland, CA: Engineering Manager - Analytics (July 2016 - Present)
 
+Ad-analytics team engineering manager
+
   * Hadoop
   * Hive
   * Java
+  * Memsql
   * Postgres
   * Scala
   * Spark

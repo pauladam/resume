@@ -20,6 +20,7 @@ Ad-analytics team engineering manager
   * Postgres
   * Scala
   * Spark
+  * SOX change control managed development
 
 ### SocialCode — [socialcode.com](http://www.socialcode.com/)
 

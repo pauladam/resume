@@ -17,10 +17,12 @@ Ad-analytics team engineering manager
   * Hive
   * Java
   * Memsql
+  * Metabase
   * Postgres
+  * SOX change control managed development
   * Scala
   * Spark
-  * SOX change control managed development
+  * Zeppelin
 
 ### SocialCode — [socialcode.com](http://www.socialcode.com/)
 

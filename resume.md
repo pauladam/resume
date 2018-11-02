@@ -9,18 +9,14 @@ pahowe@gmail.com
 
 ### Pandora — [pandora.com](http://www.pandora.com/)
 
-Oakland, CA: Engineering Manager - Analytics (July 2016 - Present)
+Oakland, CA: Senior Engineering Manager - Monetization, Capacity and Performance Analytics (July 2016 - Present)
 
-Ad-analytics team engineering manager
-
+  * BigQuery
+  * Dataproc
   * Hadoop
   * Hive
   * Java
-  * Memsql
-  * Metabase
-  * Postgres
-  * SOX change control managed development
-  * Scala
+  * Presto
   * Spark
   * Zeppelin
 
@@ -30,7 +26,7 @@ San Francisco, CA: Sr. Engineering Manager (July 2013 - July 2016)
 
 Analytics team engineering manager. The analytics team works to develop novel,
 industrial strength analytical models and services. The analytics team
-interfaces closely with product, reearch and platform development teams.
+interfaces closely with product, research and platform development teams.
 
   * AWS: EC2, Elasticsearch, Elastic MapReduce, Redshift, RDS
   * Celery

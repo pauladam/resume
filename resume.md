@@ -22,7 +22,7 @@ Oakland, CA: Senior Engineering Manager - Monetization, Capacity and Performance
 
 ### SocialCode — [socialcode.com](http://www.socialcode.com/)
 
-San Francisco, CA: Sr. Engineering Manager (July 2013 - July 2016)
+San Francisco, CA: Senior Engineering Manager (July 2013 - July 2016)
 
 Analytics team engineering manager. The analytics team works to develop novel,
 industrial strength analytical models and services. The analytics team
